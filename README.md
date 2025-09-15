@@ -6,8 +6,9 @@ Function introduction
   
 Required Python package
 ---
-  pandas, RDKit, pubchempy, and alfabet.
+  Pandas, RDKit, pubchempy, and alfabet.
 
 Use examples
 ---
   Open screen_lohc_main.py in the compiler and run it. Enter the required number of carbon atoms and whether heteroatoms and elements are required according to the prompts.
+  If you need data for each stage, use the to_excel function under each variable in screen_lohc_main.py.
